@@ -1,0 +1,8 @@
+---
+title: "Creating graphs in R with 'ggplot2'"
+output: html_document
+---
+
+# Plots with ggplot2
+
+We are going to make plots in R and it will be amazing!
